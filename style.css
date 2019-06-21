@@ -63,6 +63,11 @@ article {
     text-align: center
 }
 
+h3, p {
+    background-color: #ebebeb;
+    padding: 3px;
+}
+
 container2 {
     position: absolute;
     background-color: #ebebeb;
